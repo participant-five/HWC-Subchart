@@ -1,4 +1,4 @@
 hello-world-configmap:
     replicaCount: 5
     app:
-      content: "it's a complex dev world"
+      content: "dev world is very complex!"
