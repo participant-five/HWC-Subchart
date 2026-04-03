@@ -1,4 +1,4 @@
 hello-world-configmap:
     replicaCount: 5
     app:
-      content: "dev repo <br> testing 123"
+      content: "Remco destroyed everything!"
